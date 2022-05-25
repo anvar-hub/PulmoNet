@@ -15,8 +15,11 @@ Lecturer Advisor: Mr. Eugene Castro
 
 
 
+<img width="562" alt="Screenshot 2022-05-26 at 1 31 42 AM" src="https://user-images.githubusercontent.com/80424238/170361876-12b6d4f8-c5db-40a8-bf02-c9f4822a26a8.png">
 
-The accuracy of the  model is 90% and loss is 0.3451487123966217
+The accuracy of the  model is 95,5% and loss is 0.15501908957958221
 
-<img width="996" alt="Screenshot 2022-05-08 at 1 44 54 AM" src="https://user-images.githubusercontent.com/80424238/167271217-43f9627f-27fc-4e05-8a33-78a077a270d5.png">
+
+
+
 
